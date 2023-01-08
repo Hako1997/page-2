@@ -18,7 +18,7 @@ abstract: Cold load pickup (CLPU) phenomenon is identified as the persistent
   solved in parallel. The numerical test on modified IEEE 123-node test feeders
   has verified the efficiency of our proposed SDDSR model and provided fresh
   insights into the monetary and secure values of DDU quantification.
-slides: example
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
@@ -32,14 +32,11 @@ authors:
 publication: IEEE Transactions on Smart Grid
 featured: false
 tags: []
-projects:
-  - internal-project
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+projects: []
+summary: ""
 url_dataset: "#"
 url_project: ""
-publication_short: ""
+publication_short: "2021"
 url_source: "#"
 url_video: "#"
 date: 2023-01-08T15:24:33.345Z
@@ -51,7 +48,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: ""
