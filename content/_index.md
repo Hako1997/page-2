@@ -31,12 +31,6 @@ Sections:
           location: Hong Kong
           date_start: '2018-09-01'
           date_end: '2022-08-31'
-<!--           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying -->
         - title: Bsc in Electrical Engineering
           company: Huazhong University of Science and Technology
           company_url: ''
@@ -44,7 +38,6 @@ Sections:
           location: California
           date_start: '2014-09-01'
           date_end: '2018-06-30'
-          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: collection
