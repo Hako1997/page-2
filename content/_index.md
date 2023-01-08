@@ -44,7 +44,7 @@ Sections:
           location: California
           date_start: '2014-09-01'
           date_end: '2018-06-30'
-<!--           description: Taught electronic engineering and researched semiconductor physics. -->
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: collection
