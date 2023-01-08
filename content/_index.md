@@ -31,12 +31,12 @@ Sections:
           location: Hong Kong
           date_start: '2018-09-01'
           date_end: '2022-08-31'
-          description: |2-
+<!--           description: |2-
               Responsibilities include:
 
               * Analysing
               * Modelling
-              * Deploying
+              * Deploying -->
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
