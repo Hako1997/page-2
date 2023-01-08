@@ -8,7 +8,7 @@ last_name: Li
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: # ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -77,5 +77,11 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! This is Yujia Li (李雨佳). I am currently a postdoctoral Research Associate in Department of Electrical and Electronic Engineering at The University of Hong KONG, advised by Dr. Yunhe Hou. My research interests includes Power System Resilience, Renewable Energy Integration, Coupled Transportation and Power Systems, and Optimization in Power Systems. 
+
+Outside of work, you enjoy music/dancing/reading.
+
+Feel free to contact me if you are interested in my research work! 
+
+
 {style="text-align: justify;"}
