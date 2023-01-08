@@ -142,6 +142,7 @@ Sections:
       # Contact (add or remove contact options as necessary)
       email: yjli@eee.hku.hk
       phone: 852 61949185
+      directions: CYC 801, The University of Hong Kong
       address:
         street: Polfulam Road
         city: Central and Western District
@@ -149,7 +150,6 @@ Sections:
         postcode: '999077'
         country: China
         country_code: CN
-      directions: Enter CYC 801, The University of Hong Kong
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
