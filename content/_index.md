@@ -13,6 +13,7 @@ Sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: experience
+    id: edu
     content:
       title: Education
       # Date format for experience
@@ -28,14 +29,14 @@ Sections:
           company: The University of Hong Kong
           company_url: ''
           company_logo: org-gc
-          location: Hong Kong
+          location: Hong Kong SAR, China
           date_start: '2018-09-01'
           date_end: '2022-08-31'
         - title: Bsc in Electrical Engineering
           company: Huazhong University of Science and Technology
           company_url: ''
           company_logo: org-x
-          location: California
+          location: Wuhan, China
           date_start: '2014-09-01'
           date_end: '2018-06-30'
     design:
