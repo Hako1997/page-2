@@ -12,7 +12,6 @@ type: landing
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: experience
-    id: edu
     content:
       title: Education
       # Date format for experience
