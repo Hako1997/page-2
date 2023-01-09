@@ -2,7 +2,7 @@
 title: Restoration Strategy for Active Distribution Systems Considering
   Endogenous Uncertainty in Cold Load Pickup
 authors:
-  - Yujia Lauren Li
+  - Yujia Li
   - Wei Sun
   - Wenqian Yin
   - Shunbo Lei
