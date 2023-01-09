@@ -1,7 +1,7 @@
 ---
 title: "Restoration Strategy for Active Distribution Systems Considering Endogenous Uncertainty in Cold Load Pickup"
 authors:
-- Yujia Li
+- Admin
 - Wei Sun
 - Wenqian Yin
 - Shunbo Lei
@@ -31,7 +31,13 @@ abstract: Cold load pickup (CLPU) phenomenon is identified as the persistent pow
 summary: ""
 
 tags:
-- Source Themes
+- cold load pickup 
+- decision-dependent 
+- uncertainty
+- distribution system
+- service restoration
+- stochastic programming
+
 featured: false
 
 # links:
