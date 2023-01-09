@@ -45,9 +45,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
- # - icon: envelope
- #   icon_pack: fas
- #   link: '/#contact'
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -71,7 +71,7 @@ social:
   #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yjli@eee.hku.hk'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
