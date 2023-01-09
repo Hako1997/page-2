@@ -35,7 +35,7 @@ Sections:
         - title: Bsc in Electrical Engineering
           company: Huazhong University of Science and Technology
           company_url: ''
-          company_logo: org-x
+          company_logo: Hust
           location: Wuhan, China
           date_start: '2014-09-01'
           date_end: '2018-06-30'
