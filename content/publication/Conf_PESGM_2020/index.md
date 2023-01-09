@@ -9,7 +9,7 @@ author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2020-08-02T00:00:00Z"
-doi: ""
+doi: "10.1109/PESGM41954.2020.9281648"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-01-09T00:00:00Z"
