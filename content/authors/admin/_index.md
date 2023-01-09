@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! This is Yujia Li (李雨佳). I am currently a Postdoctoral Research Fellow in [the Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/), advised by [Dr. Yunhe Hou](https://www.eee.hku.hk/~yhhou/index.htm). 
+Hello! This is Yujia Li (李雨佳). I am currently a Postdoctoral Research Fellow in [the Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/), advised by [Dr. Yunhe Hou](https://www.eee.hku.hk/~yhhou/index.htm). 
 
 My {{< hl >}}**research interests**{{< /hl >}} include _Power System Resilience_, _Renewable Energy Integration_, _Interdependent Transportation and Power Systems_, and _Optimization Methods Applied in Power Systems_. 
 
