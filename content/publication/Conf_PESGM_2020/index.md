@@ -1,7 +1,7 @@
 ---
 title: "Two-Stage Stochastic Unit Commitment Considering Distribution Perturbation via Contamination Technique"
 authors:
-  - Yujia Li
+  - Admin
   - Wenqian Yin
   - Shuanglei Feng
   - Yunhe Hou
