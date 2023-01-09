@@ -64,7 +64,7 @@ Sections:
         - title: Intern
           company: Dispatching & Control Center, State Grid Coorporation of China
           company_url: ''
-          company_logo: org-x
+          company_logo: SG
           location: Hunan, China
           date_start: '2017-08-01'
           date_end: '2017-08-31'
