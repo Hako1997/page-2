@@ -88,7 +88,7 @@ Sections:
   - block: collection
     id: talks
     content:
-      title: Invited Talks
+      title: Invited Talks (Recent & Upcoming)
       filters:
         folders:
           - event
