@@ -22,7 +22,7 @@ organizations:
     url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include _Power System Resilience_, _Renewable Energy Integration_, _Interdependent Transportation and Power Systems_, and _Optimization Methods Applied in Power Systems_. 
 
 # Interests to show in About widget
 interests:
