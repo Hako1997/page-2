@@ -44,12 +44,12 @@ url_source: ""
 url_video: ""
 publication: "* IEEE Transactions on Smart Grid, 13*(4)"
 featured: false
-date: 2023-01-08T20:41:00.000Z
+date: 2021-10-15T20:41:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-doi: ""
+doi: "10.1109/TSG.2021.3120555"
 ---
 
 {{% callout note %}}
