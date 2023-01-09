@@ -1,7 +1,7 @@
 ---
 title: "A Distributionally Robust Resilience Enhancement Strategy for Distribution Grids Considering Decision-Dependent Contingencies"
 authors:
-- Yujia Li
+- Admin
 - Shunbo Lei
 - Wei Sun
 - Chenxi Hu
@@ -31,7 +31,12 @@ abstract: When performing resilience enhancement for distribution grids, subopti
 summary: ""
 
 tags:
-- Decision-Dependent Uncertainty
+- Decision-dependent uncertainty
+- distribution network
+- distributionally robust optimization
+- line hardening
+- network reconfiguration
+- resilience enhancement
 featured: false
 
 # links:
