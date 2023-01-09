@@ -32,8 +32,7 @@ Sections:
           location: Hong Kong SAR, China
           date_start: '2018-09-01'
           date_end: '2022-08-31'
-          description: |2-
-          Advisor: [Dr. Yunhe Hou](https://www.eee.hku.hk/~yhhou/index.htm)
+          description: Advisor: [Dr. Yunhe Hou](https://www.eee.hku.hk/~yhhou/index.htm)
         - title: BSc in Electrical Engineering
           company: Huazhong University of Science and Technology
           company_url: ''
