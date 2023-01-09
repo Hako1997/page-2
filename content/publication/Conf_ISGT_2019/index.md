@@ -1,7 +1,7 @@
 ---
 title: "Assessing Robustness of Risk-Constrained Operating Strategies for Power Systems with Renewables by Contamination-Based Technique"
 authors:
-  - Yujia Li
+  - Admin
   - Shuanglei Feng
   - Yunhe Hou
 author_notes:
@@ -29,11 +29,10 @@ abstract: Risk-constrained stochastic programming (SP) is an effective tool to c
 summary: ""
 
 tags:
-- Contamination-Based Technique
-- Wind Uncertainty
-- Robustness Test
-- Stochastic Programmming
-- Conditional Value at Risk
+- contamination technique
+- wind power generation
+- stochastic programmming
+- conditional value at risk
 featured: false
 
 # links:
