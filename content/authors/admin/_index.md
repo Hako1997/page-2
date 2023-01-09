@@ -83,7 +83,7 @@ My {{< hl >}}**research interests**{{< /hl >}} include _Power System Resilience_
 
 Outside of work, I enjoy music/dancing/reading.
 
-Feel free to [**contact me**]('/#contact') if you are interested in my research works.
+Feel free to [**contact me**](#contact) if you are interested in my research works.
 
 
 {style="text-align: justify;"}
