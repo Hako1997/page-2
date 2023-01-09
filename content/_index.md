@@ -32,6 +32,8 @@ Sections:
           location: Hong Kong SAR, China
           date_start: '2018-09-01'
           date_end: '2022-08-31'
+          description: |2-
+          Advisor: [Dr. Yunhe Hou](https://www.eee.hku.hk/~yhhou/index.htm)
         - title: BSc in Electrical Engineering
           company: Huazhong University of Science and Technology
           company_url: ''
@@ -39,6 +41,35 @@ Sections:
           location: Wuhan, China
           date_start: '2014-09-01'
           date_end: '2018-06-30'
+    design:
+      columns: '2'
+  - block: experience
+    id: exp
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Postdoctoral Research Associate
+          company: The University of Hong Kong
+          company_url: ''
+          company_logo: HKU
+          location: Hong Kong SAR, China
+          date_start: '2022-09-01'
+          date_end: ''
+        - title: Intern
+          company: Dispatching & Control Center, State Grid Coorporation of China
+          company_url: ''
+          company_logo: org-x
+          location: Hunan, China
+          date_start: '2017-08-01'
+          date_end: '2017-08-31'
     design:
       columns: '2'
   - block: collection
