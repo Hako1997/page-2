@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: ocean
-  theme_night: dark
-  font: minimal
+  theme_day: minimal
+  theme_night: mr robot
+  font: rose
   font_size: L
 
 # SEO
