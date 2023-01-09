@@ -101,7 +101,7 @@ Sections:
       title: Contact
       # Contact (add or remove contact options as necessary)
       email: yjli@eee.hku.hk
-      phone: 852 61949185
+      # phone: 852 61949185
       directions: CYC 801, The University of Hong Kong
       address:
         street: Polfulam Road
