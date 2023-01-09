@@ -10,6 +10,9 @@ main:
   - name: Education
     url: '#edu'
     weight: 20
+  - name: Experience
+    url: '#exp'
+    weight: 20
   - name: Publications
     url: '#pub'
     weight: 30
