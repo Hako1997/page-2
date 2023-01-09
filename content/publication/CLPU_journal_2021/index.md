@@ -10,7 +10,7 @@ author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2021-10-15T00:00:00Z"
-doi: ""
+doi: "10.1109/TSG.2021.3120555"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-01-09T00:00:00Z"
