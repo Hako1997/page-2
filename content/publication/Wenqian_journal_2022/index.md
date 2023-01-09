@@ -22,7 +22,7 @@ publishDate: "2023-01-09T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Systems Journal, * (Early Access)"
+publication: "*IEEE Systems Journal,* (Early Access)"
 publication_short: ""
 
 abstract: The global experience on wind farm development reveals that due to the spatial correlation, the prediction error of wind power is related to the scale of wind farms. This evidence indicates that the uncertainty features of wind power output from large-scale wind farms are not fixed but dependent on expansion decisions. The decision-dependent uncertainty (DDU) will alter the traditional optimization process and pose solution challenges. This article proposes a coordinated planning model for large-scale wind farms and energy storage considering DDU. First, a DDU model, which quantifies the relationship between wind power prediction errors and the wind farm size, is established based on historical data. The proposed DDU model for a single wind farm is extended to multiple wind farms with their spatial correlation captured by a Gaussian Mixture Model. Then, tackling the coupling relationship between decisions and uncertainty, an affine function-based solution method for the stochastic model with decision-dependent probability distributions is proposed. The constructed affine function maps planning decisions to decision-dependent wind power scenario sets via linear transformation. The difference between the planning model with and without the DDU in wind power is compared and discussed. Case studies verify the proposed model and solution method.
