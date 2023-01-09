@@ -66,7 +66,7 @@ Sections:
           company_url: ''
           company_logo: SG
           location: Hunan, China
-          date_start: '2017-08-01'
+          date_start: '2017-07-31'
           date_end: '2017-08-31'
     design:
       columns: '2'
