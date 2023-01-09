@@ -8,7 +8,7 @@ author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2010-04-01T00:00:00Z"
-doi: ""
+doi: "10.1109/ISGTEurope.2019.8905546"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-01-09T00:00:00Z"
