@@ -3,7 +3,7 @@ title: "Sample Robust Scheduling of Electricity-Gas Systems Under Wind Power Unc
 authors:
 - Rong-Peng Liu 
 - Yunhe Hou 
-- Yujia Li 
+- Admin 
 - Shunbo Lei
 - Wei Wei 
 - Xiaozhe Wang
@@ -32,12 +32,12 @@ abstract: Bulk integrated electricity and gas systems (IEGSs) introduce complex 
 summary: ""
 
 tags:
-- Computational modeling
-- Uncertainty
-- Wind power generation
-- Optimization
-- Mathematical model
-- Mixed integer linear programming
+- integrated electricity and gas systems
+- mixed-integer linear program
+- optimal power flow
+- robust optimization
+- stochastic optimization
+- wind power generation
 featured: false
 
 # links:
