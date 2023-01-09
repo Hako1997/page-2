@@ -8,7 +8,7 @@ authors:
 author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2019-11-21T00:00:00Z"
+date: "2019-01-21T00:00:00Z"
 doi: "10.1109/iSPEC48194.2019.8975016"
 
 # Schedule page publish date (NOT publication's date).
