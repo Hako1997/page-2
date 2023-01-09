@@ -30,10 +30,10 @@ abstract: Stochastic unit commitment (SUC) is deemed as an efficient operational
 summary: ""
 
 tags:
-- Uncertainty
-- Perturbation Methods
-- Stochastic Programming
-- Contamination Technique
+- uncertainty
+- perturbation methods
+- stochastic programming
+- contamination technique
 featured: false
 
 # links:
