@@ -10,7 +10,7 @@ authors:
 author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2021-5-18T00:00:00Z"
+date: "2021-05-18T00:00:00Z"
 doi: "10.1109/TPWRS.2021.3081557"
 
 # Schedule page publish date (NOT publication's date).
