@@ -119,7 +119,7 @@ Sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-        captcha: false
+          captcha: false
     design:
       columns: '2'
 ---
