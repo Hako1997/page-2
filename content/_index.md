@@ -28,7 +28,7 @@ Sections:
         - title: PhD in Electrical Engineering
           company: The University of Hong Kong
           company_url: ''
-          company_logo: org-gc
+          company_logo: HKU
           location: Hong Kong SAR, China
           date_start: '2018-09-01'
           date_end: '2022-08-31'
